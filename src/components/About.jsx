@@ -1,5 +1,6 @@
 import React from "react";
-import Tilt from "react-tilt";
+/*import Tilt from "react-tilt";*/
+import Tilt from 'react-parallax-tilt';
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -11,7 +12,7 @@ import i18n from "../i18n";
 
 const ServiceCard = ({ index, title, icon }) => (
   
-  <Tilt className='xs:w-[250px] w-full'>
+    <Tilt tiltMaxAngleX={25} tiltMaxAngleY={25} scale={1.05}>
     <motion.div
       key={index}
       variants={fadeIn("right", "spring", index * 0.5, 0.75)}
