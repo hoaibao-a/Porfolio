@@ -1,0 +1,185 @@
+{
+  "navbar": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "experience": "EXPERIENCE",
+    "projects": "PROJECT",
+    "contact": "CONTACT"
+  },
+  "services": {
+    "game_dev": "Game Developer",
+    "game_design": "Game Designer",
+    "web_dev": "Web Developer",
+    "mobile_dev": "Mobile Developer"
+  },
+  "experiences": {
+    "ta_title": "Teaching Assistant",
+    "ta_date": "August 2022 - April 2023",
+    "ta_point1": "Supported students in programming concepts.",
+    "ta_point2": "Encouraged creativity through game projects.",
+    "lecturer_title": "Lecturer",
+    "lecturer_date": "April 2023 - Present",
+    "lecturer_point1": "Teaching Scratch, Game Maker Studio, and Python.",
+    "lecturer_point2": "Using project-based learning methodologies.",
+    "lecturer_point3": "Guiding students in game development lifecycle."
+  },
+  "hero2d":{
+    "title": "Developing video games?",
+    "hello": "Hello,",
+    "name": "I'm Minh!",
+    "description": "A game developer with a passion for creating unique and innovative experiences 3D and 2D with Unity. I love telling stories through games, building AI NPCs, and optimizing player experiences. Explore my portfolio to enter the world of great games together!",
+    "contact": "Contact Me",
+    "resume": "Download Resume"
+  },
+  "about":{
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "description": "I'm a game developer with experience in Unity and Gamemaker Studio. I'm a passionate and creative game developer, always excited to explore new aspects of the gaming world. Driven by a deep love for games, I aspire to create unique experiences and contribute to enriching the gaming industry. I eagerly seek opportunities to meet and collaborate with like-minded team members who share my passion, to create impressive work together in the growing games industry. Let's work together to bring your ideas to life!"
+  },
+  "experience":{
+    "title": "WHAT I HAVE DONE SO FAR",
+    "subtitle": "Work Experience"
+  },
+  "project": {
+    "title": "Featured Projects",
+    "view": "See Detail"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "name": "What's your name?",
+    "email": "What's your email?",
+    "message": "What you want to say?",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully!",
+    "failure": "Oops! Something went wrong. Please try again.",
+    "success_title": "Success!",
+    "failure_title": "Error!",
+    "contact_info": "My Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "address_detail": "Go Vap District, Ho Chi Minh City",
+    "error": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email.",
+      "message": "Please enter your message."
+    }
+  },
+  "footer": {
+    "name": "Minh Mai",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Project",
+    "contact": "Contact",
+    "privacy": "Minh Mai. All rights reserved."
+  },
+  
+  
+  "projects": {
+    "RPG 3D Multiplayer Game": {
+      "participants": "Unity | Duration: 4 months | Team Size: 2",
+      "shortDescription": "A feature-rich RPG game with an immersive open-world experience, multiplayer support, and a dynamic trading system.",
+      "description": "\"RPG 3D Multiplayer\" is an open-world role-playing game where players can explore vast landscapes, complete quests, engage in combat, and interact with other players in real-time. The game features a detailed inventory system, a dynamic market for trading items, and challenging AI-controlled enemies. Players can also join dungeons, battle powerful bosses, and upgrade their skills for a more immersive gameplay experience. Built with Unity and utilizing Netcode for GameObjects (NGO), Firebase, and AI-driven behaviors, this game delivers a smooth and engaging multiplayer experience.",
+      "technologies": ["Unity 6", "C#", "Blender", "Firebase", "Netcode for GameObjects (NGO)"],
+      "features": [
+        "Seamless open-world exploration with interactive NPCs",
+        "Real-time multiplayer system with smooth player synchronization",
+        "Comprehensive inventory and equipment system",
+        "Challenging AI enemies using FSM for realistic behavior",
+        "Optimized performance with LOD, Object Pooling, and Async Scene Loading",
+        "Firebase integration for real-time data synchronization and authentication",
+        "Network Culling for efficient multiplayer interactions",
+        "In-game chat and interaction system"
+      ]
+    },
+    "3D Horror Game": {
+      "participants": "Unity | Duration: 2 months | Team Size: 4",
+      "shortDescription": "A thrilling survival horror game where players must outsmart AI-controlled enemies and survive the night.",
+      "description": "\"3D Horror Game\" is an immersive survival horror experience inspired by the legendary \"Five Nights at Freddy’s\". Players find themselves trapped in his room with a mysterious and terrifying animatronics that come to life at night. Using limited resources, players must survive the night, and avoid being detected by the ever-watchful AI enemies. With real-time decision-making, players will face intense dilemmas that affect the game’s multiple endings. Atmospheric lighting, dynamic sound effects, and a gripping storyline enhance the tension, making every moment a heart-pounding challenge. Explore the unknown, uncover dark secrets, and survive the horror before it's too late!",
+      "technologies": ["Unity", "C#", "Blender", "AI Programming"],
+      "features": [
+        "Real-time AI enemy behavior",
+        "Multiple endings based on player choices",
+        "Advanced lighting and shadow system",
+        "Customizable settings for difficulty levels"
+      ]
+    },
+    "Co Tuong Game": {
+      "participants": "Unity | Duration: 2 months | Solo Project",
+      "shortDescription": "A feature-rich Chinese Chess game for Android with AI opponent and local multiplayer support.",
+      "description": "\"Co Tuong - Local Chinese Chess\" is a digital recreation of the traditional Chinese Chess game, designed for both solo and local multiplayer play. Players can engage in single-player mode against a challenging AI opponent or two-player mode to battle against a friend on the same device. The game features a real-time move validation, and an undo function for better gameplay control. With a beautifully designed chessboard, smooth animations, and clear game rules, Xiangqi brings the classic game into the digital era while preserving its authentic gameplay experience.",
+      "technologies": ["Unity", "C#", "Minimax Algorithm (AI)", "Alpha-Beta Pruning"],
+      "features": [
+        "Single-player mode against AI (Minimax + Alpha-Beta Pruning)",
+        "Local multiplayer mode (two players on the same device)",
+        "Move validation and turn-based system",
+        "Undo feature for strategic adjustments",
+        "Game history tracking for reviewing past moves"
+      ]
+    },
+    "Classic Pikachu": {
+      "participants": "WinForms C# | Duration: 2 weeks | Solo Project",
+      "shortDescription": "A fun and nostalgic tile-matching game where players connect identical Pokémon tiles using a limited number of straight lines.",
+      "description": "\"Classic Pikachu\" is a nostalgic tile-matching game built using WinForms (C# .NET). Players must connect identical Pokémon tiles within a limited number of straight lines to clear the board. The game offers multiple difficulty levels, a scoring system, and a hint feature to assist players. Built with simplicity and efficiency, this game brings back childhood memories while running smoothly on Windows devices.",
+      "technologies": ["C#", ".NET WinForms", "GDI + Graphics", "BFS Algorithm"],
+      "features": [
+        "Classic Pikachu tile-matching mechanics",
+        "Multiple difficulty levels with increasing challenge",
+        "Dynamic board generation for replayability",
+        "Shuffle system for assisting players",
+        "Score tracking and leaderboard support"
+      ]
+    },
+    "Pi Store Management": {
+      "participants": "WinForms C# | Thời gian: 1 month | Dự án cá nhân",
+      "shortDescription": "A Windows-based inventory management application designed for small to medium-sized businesses.",
+      "description": "\"Pi Store Management System\" is a Windows desktop application built with WinForms (C# .NET) to streamline inventory and stock management. The application provides real-time tracking of stock levels, supplier and customer management, and detailed reporting. Users can add, update, and remove products from the system, generate invoices, and monitor sales trends. With an intuitive UI, barcode scanning integration, and multi-user authentication, this application is designed to optimize inventory control and improve operational efficiency for small to medium businesses.",
+      "technologies": ["C#", ".NET WinForms", "SQL Server", "Entity Framework", "3-Layers Architecture"],
+      "features": [
+        "Product management (add, update, delete, search)",
+        "Stock tracking with low-stock alerts",
+        "Customer and supplier database management",
+        "Order processing and invoice generation",
+        "Multi-user authentication with role-based access",
+        "Sales and purchase history tracking",
+        "PDF and CSV report generation for sales analysis"
+      ]
+    },
+    "E-Commerce Website": {
+      "participants": "ASP.NET Core | Duration: 2 months | Team Size: 2",
+      "shortDescription": "A full-fledged online shopping platform with secure payment integration, order tracking, and an intuitive admin dashboard.",
+      "description": "\"E-Commerce Website\" is a full-featured online shopping platform developed using ASP.NET Core. The website supports product management, user authentication, order processing, and secure payment integration. Customers can browse through categories, add products to their cart, and complete purchases using various payment methods. Admin users can manage products, monitor sales, and generate reports through a dedicated dashboard. The system also includes a recommendation engine to enhance user experience and increase conversions.",
+      "technologies": ["ASP.NET Core", "C#", "Entity Framework", "SQL Server", "Razor Pages", "VNPay API (Payment Integration)"],
+      "features": [
+        "User authentication (Register, Login, Role-based Access)",
+        "Product catalog with categories and search functionality",
+        "Shopping cart and checkout system",
+        "Secure payment gateway integration (VNPay)",
+        "Admin dashboard for managing products, users, and orders",
+        "Order tracking and invoice generation",
+        "Wishlist and product recommendations",
+        "Responsive design for desktop and mobile"
+      ]
+    },
+    "Flashcard App": {
+      "participants": "Android Studio (Java) | Duration: 1.5 months | Team Size: 2",
+      "shortDescription": "An interactive flashcard-based mobile app designed to help users improve their English vocabulary efficiently with spaced repetition and engaging quizzes.",
+      "description": "\"English Flashcards\" is a mobile application developed using Android Studio (Java), aimed at enhancing English vocabulary learning through an interactive flashcard system. The app incorporates spaced repetition, ensuring that users review words at optimal intervals for long-term retention. Users can explore predefined word sets, create custom flashcards, and take quizzes to test their knowledge. The user-friendly interface, progress tracking, and learning streak system make learning more engaging and effective.",
+      "technologies": ["Java", "Android Studio", "Azure SQL Database", "PHP", "Retrosift API"],
+      "features": [
+        "Flashcard-based learning system with spaced repetition",
+        "Predefined word sets categorized by difficulty and topics",
+        "Custom flashcards creation and personal word collections",
+        "Multiple-choice quizzes and fill-in-the-blank exercises",
+        "Daily word notifications and learning streak tracking",
+        "Online support with Azure SQL Database and PHP backend"
+      ]
+    }
+  },
+  "project-detail":{
+    "back-to-home": "Back to Home",
+    "view-source": "View Source Code"
+  }
+}
+  

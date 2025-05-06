@@ -1,0 +1,184 @@
+{
+  "navbar": {
+    "home": "TRANG CHỦ",
+    "about": "GIỚI THIỆU",
+    "experience": "KINH NGHIỆM",
+    "projects": "DỰ ÁN",
+    "contact": "LIÊN HỆ"
+  },
+  "services": {
+    "game_dev": "Lập trình viên Game",
+    "game_design": "Thiết kế Game",
+    "web_dev": "Lập trình viên Web",
+    "mobile_dev": "Lập trình viên Mobile"
+  },
+  "experiences": {
+    "ta_title": "Trợ giảng",
+    "ta_date": "Tháng 8/2022 - Tháng 4/2023",
+    "ta_point1": "Hỗ trợ sinh viên về các khái niệm lập trình.",
+    "ta_point2": "Khuyến khích sáng tạo thông qua dự án game.",
+    "lecturer_title": "Giảng viên",
+    "lecturer_date": "Tháng 4/2023 - Hiện tại",
+    "lecturer_point1": "Giảng dạy Scratch, Game Maker Studio và Python.",
+    "lecturer_point2": "Áp dụng phương pháp học dựa trên dự án.",
+    "lecturer_point3": "Hướng dẫn sinh viên phát triển game từ ý tưởng đến sản phẩm hoàn chỉnh."
+  },
+  "hero2d":{
+    "title": "Phát triển trò chơi điện tử?",
+    "hello": "Xin chào,",
+    "name": "Tôi là Minh!",
+    "description": "Một nhà phát triển trò chơi với niềm đam mê tạo ra những trải nghiệm độc đáo và sáng tạo 3D và 2D với Unity. Tôi thích kể chuyện thông qua trò chơi, xây dựng NPC AI và tối ưu hóa trải nghiệm của người chơi. Khám phá danh mục đầu tư của tôi để cùng nhau bước vào thế giới trò chơi tuyệt vời!",
+    "contact": "Liên hệ",
+    "resume": "Tải hồ sơ"
+  },
+  "about":{
+    "introduction": "Giới thiệu",
+    "overview": "Tổng quan",
+    "description": "Tôi là một nhà phát triển trò chơi có kinh nghiệm trong Unity và Gamemaker Studio. Tôi là một nhà phát triển trò chơi đầy nhiệt huyết và sáng tạo, luôn háo hức khám phá những khía cạnh mới của thế giới trò chơi. Được thúc đẩy bởi tình yêu sâu sắc dành cho trò chơi, tôi mong muốn tạo ra những trải nghiệm độc đáo và góp phần làm phong phú thêm ngành công nghiệp trò chơi. Tôi háo hức tìm kiếm cơ hội để gặp gỡ và hợp tác với các thành viên trong nhóm có cùng chí hướng, những người chia sẻ niềm đam mê của tôi, để cùng nhau tạo ra những tác phẩm ấn tượng trong ngành công nghiệp trò chơi đang phát triển. Hãy cùng nhau làm việc để biến ý tưởng của bạn thành hiện thực!"
+  },
+  "experience":{
+    "title": "NHỮNG CÔNG VIỆC TÔI ĐÃ LÀM CHO ĐẾN HIỆN TẠI",
+    "subtitle": "Kinh nghiệm làm việc"
+  },
+  "project": {
+    "title": "Dự án nổi bật",
+    "view": "Xem thêm"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Hãy liên hệ với tôi để bắt đầu dự án của bạn!",
+    "name": "Tên của bạn",
+    "email": "Email của bạn",
+    "message": "Bạn muốn nhắn nhủ điều gì?",
+    "send": "Gửi",
+    "sending": "Đang gửi...",
+    "success": "Tin nhắn của bạn đã được gửi thành công!",
+    "failure": "Ôi! Đã có lỗi xảy ra. Vui lòng thử lại.",
+    "success_title": "Thành công!",
+    "failure_title": "Lỗi!",
+    "contact_info": "Thông tin liên hệ",
+    "address": "Địa chỉ",
+    "phone": "Điện thoại",
+    "address_detail": "Quận Gò Vấp, TP.Hồ Chí Minh",
+    "error": {
+      "name": "Vui lòng nhập tên của bạn.",
+      "email": "Vui lòng nhập email hợp lệ.",
+      "message": "Vui lòng nhập tin nhắn của bạn."
+    }
+  },
+  "footer": {
+    "name": "Mai Gia Minh",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "contact": "Liên hệ",
+    "privacy": "Mai Gia Minh. Đã đăng ký bản quyền hehe."
+  },
+  
+  "projects": {
+    "RPG 3D Multiplayer Game": {
+      "participants": "Unity | Thời gian: 4 tháng | Đội ngũ: 2 người",
+      "shortDescription": "Một trò chơi nhập vai thế giới mở với trải nghiệm sống động, hỗ trợ nhiều người chơi và hệ thống giao dịch linh hoạt.",
+      "description": "\"RPG 3D Multiplayer\" là một trò chơi nhập vai thế giới mở, nơi người chơi có thể khám phá các vùng đất rộng lớn, hoàn thành nhiệm vụ, tham gia chiến đấu và tương tác với những người chơi khác theo thời gian thực. Trò chơi có hệ thống vật phẩm chi tiết, thị trường giao dịch động và kẻ địch AI thử thách. Người chơi có thể tham gia vào các ngục tối, chiến đấu với những con trùm mạnh mẽ và nâng cấp kỹ năng để có trải nghiệm chơi game chân thực nhất. Được xây dựng bằng Unity và sử dụng Netcode for GameObjects (NGO), Firebase cùng AI thông minh, trò chơi mang lại trải nghiệm nhiều người chơi mượt mà và hấp dẫn.",
+      "technologies": ["Unity 6", "C#", "Blender", "Firebase", "Netcode for GameObjects (NGO)"],
+      "features": [
+        "Khám phá thế giới mở không giới hạn với NPC tương tác",
+        "Hệ thống nhiều người chơi thời gian thực với đồng bộ mượt mà",
+        "Hệ thống vật phẩm và trang bị phong phú",
+        "AI kẻ địch thử thách với FSM mang lại hành vi chân thực",
+        "Tối ưu hóa hiệu suất với LOD, Object Pooling và Async Scene Loading",
+        "Tích hợp Firebase để đồng bộ dữ liệu thời gian thực và xác thực người dùng",
+        "Network Culling giúp cải thiện hiệu suất tương tác nhiều người chơi",
+        "Hệ thống trò chuyện và tương tác trong trò chơi"
+      ]
+    },
+    "3D Horror Game": {
+      "participants": "Unity | Thời gian: 2 tháng | Đội ngũ: 4 người",
+      "shortDescription": "Một trò chơi kinh dị sinh tồn kịch tính, nơi người chơi phải chạy trốn kẻ thù do AI điều khiển và sinh tồn qua một đêm.",
+      "description": "\"3D Horror Game\" là một trải nghiệm sinh tồn kinh dị lấy cảm hứng từ tựa game huyền thoại \"Five Nights at Freddy’s\". Người chơi sẽ bị mắc kẹt trong căn phòng của mình với sinh vật bí ẩn xuất hiện vào ban đêm. Sử dụng tài nguyên hạn chế, người chơi phải sống sót và tránh bị phát hiện bởi AI kẻ thù cực kỳ nhạy bén. Với cơ chế ra quyết định theo thời gian thực, người chơi sẽ đối mặt với những tình huống căng thẳng ảnh hưởng đến kết thúc của trò chơi. Hệ thống ánh sáng chân thực, hiệu ứng âm thanh sống động và cốt truyện hấp dẫn làm tăng thêm sự căng thẳng, khiến mỗi khoảnh khắc trở thành một thử thách đáng sợ.",
+      "technologies": ["Unity", "C#", "Blender", "Lập trình AI"],
+      "features": [
+        "AI kẻ thù có hành vi thời gian thực",
+        "Nhiều kết thúc khác nhau dựa trên lựa chọn của người chơi",
+        "Hệ thống ánh sáng và đổ bóng tiên tiến",
+        "Tùy chỉnh độ khó để phù hợp với từng người chơi"
+      ]
+    },
+    "Co Tuong Game": {
+      "participants": "Unity | Thời gian: 2 tháng | Dự án cá nhân",
+      "shortDescription": "Một trò chơi cờ tướng nhiều tính năng dành cho Android có đối thủ AI và hỗ trợ nhiều người chơi cục bộ.",
+      "description": "\"Cờ Tướng\" là phiên bản kỹ thuật số tái hiện trò chơi Cờ tướng truyền thống, được thiết kế cho cả chế độ chơi đơn và nhiều người chơi cục bộ. Người chơi có thể tham gia chế độ chơi đơn với đối thủ AI đầy thử thách hoặc chế độ hai người chơi để chiến đấu với bạn bè trên cùng một thiết bị. Trò chơi có tính năng xác thực nước đi theo thời gian thực và chức năng hoàn tác để kiểm soát lối chơi tốt hơn. Với bàn cờ được thiết kế đẹp mắt, hoạt ảnh mượt mà và luật chơi rõ ràng, Cờ tướng đưa trò chơi cổ điển vào kỷ nguyên kỹ thuật số trong khi vẫn giữ nguyên trải nghiệm chơi trò chơi đích thực của nó.",
+      "technologies": ["Unity", "C#", "Minimax Algorithm (AI)", "Alpha-Beta Pruning"],
+      "features": [
+        "Chế độ chơi đơn đấu với AI (Minimax + Alpha-Beta Pruning)",
+        "Chế độ nhiều người chơi cục bộ (hai người chơi trên cùng một thiết bị)",
+        "Xác thực di chuyển và hệ thống theo lượt",
+        "Tính năng hoàn tác để điều chỉnh chiến lược",
+        "Theo dõi lịch sử trò chơi để xem lại các nước đi trước"
+      ]
+    },
+    "Classic Pikachu": {
+      "participants": "WinForms C# | Thời gian: 2 tuần | Dự án cá nhân",
+      "shortDescription": "Trò chơi nối hình Pikachu kinh điển, nơi người chơi kết nối các ô Pokémon giống nhau với số đường đi giới hạn.",
+      "description": "\"Classic Pikachu\" là một trò chơi nối hình hoài niệm được phát triển bằng WinForms (C# .NET). Người chơi cần kết nối các ô Pokémon giống nhau trong số đường đi giới hạn để xóa bảng. Trò chơi có nhiều cấp độ khó, hệ thống điểm số và gợi ý hỗ trợ người chơi. Được thiết kế với sự đơn giản và tối ưu hiệu suất, trò chơi mang lại trải nghiệm quen thuộc nhưng vẫn hấp dẫn.",
+      "technologies": ["C#", ".NET WinForms", "GDI + Graphics", "Thuật toán BFS"],
+      "features": [
+        "Cơ chế nối hình Pikachu truyền thống",
+        "Nhiều cấp độ khó tăng dần",
+        "Tạo bảng động để chơi lại",
+        "Hệ thống shuffle giúp người chơi khi gặp khó khăn",
+        "Theo dõi điểm số và bảng xếp hạng"
+      ]
+    },
+    "Pi Store Management": {
+      "participants": "WinForms C# | Duration: 1 month | Solo Project",
+      "shortDescription": "Ứng dụng quản lý hàng tồn kho chạy trên Windows được thiết kế dành cho các doanh nghiệp vừa và nhỏ.",
+      "description": "\"Pi Store Management System\" là ứng dụng máy tính để bàn Windows được xây dựng bằng WinForms (C# .NET) để hợp lý hóa việc quản lý hàng tồn kho và kho. Ứng dụng cung cấp khả năng theo dõi thời gian thực về mức hàng tồn kho, quản lý nhà cung cấp và khách hàng, và báo cáo chi tiết. Người dùng có thể thêm, cập nhật và xóa sản phẩm khỏi hệ thống, tạo hóa đơn và theo dõi xu hướng bán hàng. Với giao diện người dùng trực quan, tích hợp quét mã vạch và xác thực nhiều người dùng, ứng dụng này được thiết kế để tối ưu hóa việc kiểm soát hàng tồn kho và cải thiện hiệu quả hoạt động cho các doanh nghiệp vừa và nhỏ.",      
+      "technologies": ["C#", ".NET WinForms", "SQL Server", "Entity Framework", "Mô hình 3 lớp"],
+      "features": [
+        "Quản lý sản phẩm (thêm, cập nhật, xóa, tìm kiếm)",
+        "Theo dõi hàng tồn kho với cảnh báo hàng tồn kho thấp",
+        "Quản lý cơ sở dữ liệu khách hàng và nhà cung cấp",
+        "Xử lý đơn hàng và tạo hóa đơn",
+        "Xác thực nhiều người dùng với quyền truy cập dựa trên vai trò",
+        "Theo dõi lịch sử mua hàng và bán hàng",
+        "Tạo báo cáo PDF và CSV để phân tích bán hàng"
+      ]
+    },
+    "E-Commerce Website": {
+      "participants": "ASP.NET Core | Thời gian: 2 tháng | Đội ngũ: 2 người",
+      "shortDescription": "Nền tảng mua sắm trực tuyến đầy đủ chức năng với tích hợp thanh toán bảo mật, theo dõi đơn hàng và bảng điều khiển quản trị viên tiện lợi.",
+      "description": "\"E-Commerce Website\" là một nền tảng mua sắm trực tuyến hoàn chỉnh được phát triển bằng ASP.NET Core. Trang web hỗ trợ quản lý sản phẩm, xác thực người dùng, xử lý đơn hàng và tích hợp thanh toán bảo mật. Khách hàng có thể duyệt danh mục sản phẩm, thêm vào giỏ hàng và hoàn tất thanh toán bằng nhiều phương thức khác nhau. Người quản trị có thể quản lý sản phẩm, theo dõi doanh số và tạo báo cáo thông qua bảng điều khiển chuyên dụng. Hệ thống cũng bao gồm công cụ đề xuất sản phẩm giúp tăng trải nghiệm người dùng và tỷ lệ chuyển đổi.",
+      "technologies": ["ASP.NET Core", "C#", "Entity Framework", "SQL Server", "VNPay/Momo API"],
+      "features": [
+        "Xác thực người dùng (Đăng ký, Đăng nhập, Quản lý quyền hạn)",
+        "Danh mục sản phẩm với chức năng tìm kiếm và phân loại",
+        "Hệ thống giỏ hàng và thanh toán",
+        "Tích hợp cổng thanh toán VNPay/Momo an toàn",
+        "Bảng điều khiển quản trị viên để quản lý sản phẩm và người dùng",
+        "Theo dõi đơn hàng và tạo hóa đơn",
+        "Đề xuất sản phẩm cá nhân hóa",
+        "Thiết kế giao diện đáp ứng cho máy tính và thiết bị di động"
+      ]
+    },
+    "Flashcard App": {
+      "participants": "Android Studio (Java) | Thời gian: 1.5 months | Đội ngũ: 2",
+      "shortDescription": "Một ứng dụng di động tương tác dựa trên thẻ ghi nhớ được thiết kế để giúp người dùng cải thiện vốn từ vựng tiếng Anh của mình một cách hiệu quả với sự lặp lại cách quãng và các câu đố hấp dẫn.",      
+      "description": "\"English Flashcards\" là ứng dụng di động được phát triển bằng Android Studio (Java), nhằm mục đích nâng cao việc học từ vựng tiếng Anh thông qua hệ thống thẻ flashcard tương tác. Ứng dụng này kết hợp tính năng lặp lại theo khoảng cách, đảm bảo người dùng ôn lại các từ ở các khoảng thời gian tối ưu để ghi nhớ lâu dài. Người dùng có thể khám phá các bộ từ được xác định trước, tạo thẻ flashcard tùy chỉnh và làm bài kiểm tra để kiểm tra kiến ​​thức của mình. Giao diện thân thiện với người dùng, theo dõi tiến trình và hệ thống theo dõi học tập giúp việc học trở nên hấp dẫn và hiệu quả hơn.",
+      "technologies": ["Java", "Android Studio", "Azure SQL Database", "PHP", "Retrosift API"],
+      "features": [
+        "Hệ thống học tập dựa trên thẻ ghi nhớ với sự lặp lại cách quãng",
+        "Các bộ từ được xác định trước được phân loại theo độ khó và chủ đề",
+        "Tạo thẻ ghi nhớ tùy chỉnh và bộ sưu tập từ cá nhân",
+        "Câu đố trắc nghiệm và bài tập điền vào chỗ trống",
+        "Thông báo từ vựng hàng ngày và theo dõi chuỗi học tập",
+        "Hỗ trợ trực tuyến với Cơ sở dữ liệu Azure SQL và phần phụ trợ PHP"
+      ]
+    }
+  },
+  "project-detail":{
+    "back-to-home": "Quay lại trang chủ",
+    "view-source": "Xem mã nguồn"
+  }
+}
